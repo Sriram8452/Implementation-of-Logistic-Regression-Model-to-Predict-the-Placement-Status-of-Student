@@ -20,17 +20,13 @@ from sklearn.
 8. Apply new unknown values
 
 ## Program:
-
+```
 /*
-
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-
 Developed by: Sriram G
-
 RegisterNumber:  212222230149
-
 */
-
+```
 ```
 import pandas as pd
 data = pd.read_csv('/content/Placement_Data (1).csv')
